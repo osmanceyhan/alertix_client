@@ -60,7 +60,7 @@ export default function AdminLogin() {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent"
-              placeholder="admin@assetix.com"
+              placeholder="admin@alertix.com"
               required
             />
           </div>
